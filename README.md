@@ -6,6 +6,8 @@
 
 There are two main ways you can use Docker with Meteor apps. They are:
 
+
+
 1. Build a Docker image for your app
 2. Running a Meteor bundle with Docker
 
